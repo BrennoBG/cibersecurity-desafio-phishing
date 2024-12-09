@@ -67,5 +67,5 @@ Dados coletados:
 
 
 
-![image](https://github.com/user-attachments/assets/04a6df61-878a-4642-adee-5b133cdc4a62)
+![image](https://github.com/user-attachments/assets/a5425378-12ea-4297-9ce7-9091751c9dbe)
 
