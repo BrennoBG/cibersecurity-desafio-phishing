@@ -1,6 +1,6 @@
 **Tentei fazer com o facebook e não estava dando certo
 
-# Phishing para captura de senhas do Twitter
+# Phishing para captura de senhas do Github
 
 ### Ferramentas
 
